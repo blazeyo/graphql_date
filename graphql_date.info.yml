@@ -1,0 +1,7 @@
+name: GraphQL Date
+description: Date improvements for the GraphQL module.
+type: module
+package: GraphQL
+core: 8.x
+dependencies:
+  - graphql_core

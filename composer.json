@@ -1,0 +1,11 @@
+{
+  "name": "drupal/graphql_date",
+  "type": "drupal-module",
+  "description": "Date improvements for the GraphQL module.",
+  "homepage": "http://drupal.org/project/graphql",
+  "license": "GPL-2.0+",
+  "require": {
+    "drupal/graphql": "~8.3"
+  },
+  "minimum-stability": "dev"
+}
